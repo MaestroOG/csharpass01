@@ -1,0 +1,11 @@
+D:\School Work\3rd Sem\FactorialLibrary\bin\Debug\net9.0\FactorialLibrary.deps.json
+D:\School Work\3rd Sem\FactorialLibrary\bin\Debug\net9.0\FactorialLibrary.dll
+D:\School Work\3rd Sem\FactorialLibrary\bin\Debug\net9.0\FactorialLibrary.pdb
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.AssemblyInfoInputs.cache
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.AssemblyInfo.cs
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.csproj.CoreCompileInputs.cache
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.dll
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\refint\FactorialLibrary.dll
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\FactorialLibrary.pdb
+D:\School Work\3rd Sem\FactorialLibrary\obj\Debug\net9.0\ref\FactorialLibrary.dll

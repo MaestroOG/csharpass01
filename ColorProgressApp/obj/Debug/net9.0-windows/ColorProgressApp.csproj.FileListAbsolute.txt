@@ -1,0 +1,14 @@
+D:\School Work\3rd Sem\ColorProgressApp\bin\Debug\net9.0-windows\ColorProgressApp.exe
+D:\School Work\3rd Sem\ColorProgressApp\bin\Debug\net9.0-windows\ColorProgressApp.deps.json
+D:\School Work\3rd Sem\ColorProgressApp\bin\Debug\net9.0-windows\ColorProgressApp.runtimeconfig.json
+D:\School Work\3rd Sem\ColorProgressApp\bin\Debug\net9.0-windows\ColorProgressApp.dll
+D:\School Work\3rd Sem\ColorProgressApp\bin\Debug\net9.0-windows\ColorProgressApp.pdb
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.AssemblyInfoInputs.cache
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.AssemblyInfo.cs
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.csproj.CoreCompileInputs.cache
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.dll
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\refint\ColorProgressApp.dll
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.pdb
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ColorProgressApp.genruntimeconfig.cache
+D:\School Work\3rd Sem\ColorProgressApp\obj\Debug\net9.0-windows\ref\ColorProgressApp.dll

@@ -1,0 +1,14 @@
+D:\School Work\3rd Sem\FileDialogApp\bin\Debug\net9.0-windows\FileDialogApp.exe
+D:\School Work\3rd Sem\FileDialogApp\bin\Debug\net9.0-windows\FileDialogApp.deps.json
+D:\School Work\3rd Sem\FileDialogApp\bin\Debug\net9.0-windows\FileDialogApp.runtimeconfig.json
+D:\School Work\3rd Sem\FileDialogApp\bin\Debug\net9.0-windows\FileDialogApp.dll
+D:\School Work\3rd Sem\FileDialogApp\bin\Debug\net9.0-windows\FileDialogApp.pdb
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.AssemblyInfoInputs.cache
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.AssemblyInfo.cs
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.csproj.CoreCompileInputs.cache
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.dll
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\refint\FileDialogApp.dll
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.pdb
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\FileDialogApp.genruntimeconfig.cache
+D:\School Work\3rd Sem\FileDialogApp\obj\Debug\net9.0-windows\ref\FileDialogApp.dll
