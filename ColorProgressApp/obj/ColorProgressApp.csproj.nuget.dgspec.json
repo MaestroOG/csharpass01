@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School Work\\3rd Sem\\ColorProgressApp\\ColorProgressApp.csproj": {}
+    "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\ColorProgressApp\\ColorProgressApp.csproj": {}
   },
   "projects": {
-    "D:\\School Work\\3rd Sem\\ColorProgressApp\\ColorProgressApp.csproj": {
+    "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\ColorProgressApp\\ColorProgressApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Work\\3rd Sem\\ColorProgressApp\\ColorProgressApp.csproj",
+        "projectUniqueName": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\ColorProgressApp\\ColorProgressApp.csproj",
         "projectName": "ColorProgressApp",
-        "projectPath": "D:\\School Work\\3rd Sem\\ColorProgressApp\\ColorProgressApp.csproj",
+        "projectPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\ColorProgressApp\\ColorProgressApp.csproj",
         "packagesPath": "C:\\Users\\Muneeb Ur Rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\School Work\\3rd Sem\\ColorProgressApp\\obj\\",
+        "outputPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\ColorProgressApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muneeb Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config"

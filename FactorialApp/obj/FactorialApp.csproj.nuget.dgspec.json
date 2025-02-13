@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School Work\\3rd Sem\\FactorialApp\\FactorialApp.csproj": {}
+    "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialApp\\FactorialApp.csproj": {}
   },
   "projects": {
-    "D:\\School Work\\3rd Sem\\FactorialApp\\FactorialApp.csproj": {
+    "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialApp\\FactorialApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Work\\3rd Sem\\FactorialApp\\FactorialApp.csproj",
+        "projectUniqueName": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialApp\\FactorialApp.csproj",
         "projectName": "FactorialApp",
-        "projectPath": "D:\\School Work\\3rd Sem\\FactorialApp\\FactorialApp.csproj",
+        "projectPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialApp\\FactorialApp.csproj",
         "packagesPath": "C:\\Users\\Muneeb Ur Rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\School Work\\3rd Sem\\FactorialApp\\obj\\",
+        "outputPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muneeb Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\School Work\\3rd Sem\\FactorialLibrary\\FactorialLibrary.csproj": {
-                "projectPath": "D:\\School Work\\3rd Sem\\FactorialLibrary\\FactorialLibrary.csproj"
+              "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\FactorialLibrary.csproj": {
+                "projectPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\FactorialLibrary.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\School Work\\3rd Sem\\FactorialLibrary\\FactorialLibrary.csproj": {
+    "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\FactorialLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Work\\3rd Sem\\FactorialLibrary\\FactorialLibrary.csproj",
+        "projectUniqueName": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\FactorialLibrary.csproj",
         "projectName": "FactorialLibrary",
-        "projectPath": "D:\\School Work\\3rd Sem\\FactorialLibrary\\FactorialLibrary.csproj",
+        "projectPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\FactorialLibrary.csproj",
         "packagesPath": "C:\\Users\\Muneeb Ur Rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\School Work\\3rd Sem\\FactorialLibrary\\obj\\",
+        "outputPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FactorialLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muneeb Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config"

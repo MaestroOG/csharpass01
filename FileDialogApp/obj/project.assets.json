@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School Work\\3rd Sem\\FileDialogApp\\FileDialogApp.csproj",
+      "projectUniqueName": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FileDialogApp\\FileDialogApp.csproj",
       "projectName": "FileDialogApp",
-      "projectPath": "D:\\School Work\\3rd Sem\\FileDialogApp\\FileDialogApp.csproj",
+      "projectPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FileDialogApp\\FileDialogApp.csproj",
       "packagesPath": "C:\\Users\\Muneeb Ur Rehman\\.nuget\\packages\\",
-      "outputPath": "D:\\School Work\\3rd Sem\\FileDialogApp\\obj\\",
+      "outputPath": "D:\\School Work\\C# Assignment 01 - Muneeb Ur Rehman\\FileDialogApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muneeb Ur Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config"

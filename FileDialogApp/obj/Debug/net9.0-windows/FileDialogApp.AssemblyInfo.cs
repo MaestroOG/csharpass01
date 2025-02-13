@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileDialogApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e211f0c1de52228ebe1f74ee12d6a06e2da86347")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileDialogApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileDialogApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

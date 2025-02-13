@@ -12,3 +12,18 @@ D:\School Work\3rd Sem\ThreadSyncApp\obj\Debug\net9.0\refint\ThreadSyncApp.dll
 D:\School Work\3rd Sem\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.pdb
 D:\School Work\3rd Sem\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.genruntimeconfig.cache
 D:\School Work\3rd Sem\ThreadSyncApp\obj\Debug\net9.0\ref\ThreadSyncApp.dll
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\bin\Debug\net9.0\ThreadSyncApp.exe
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\bin\Debug\net9.0\ThreadSyncApp.deps.json
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\bin\Debug\net9.0\ThreadSyncApp.runtimeconfig.json
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\bin\Debug\net9.0\ThreadSyncApp.dll
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\bin\Debug\net9.0\ThreadSyncApp.pdb
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.AssemblyInfoInputs.cache
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.AssemblyInfo.cs
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.csproj.CoreCompileInputs.cache
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.sourcelink.json
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.dll
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\refint\ThreadSyncApp.dll
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.pdb
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ThreadSyncApp.genruntimeconfig.cache
+D:\School Work\C# Assignment 01 - Muneeb Ur Rehman\ThreadSyncApp\obj\Debug\net9.0\ref\ThreadSyncApp.dll
